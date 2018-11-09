@@ -1,0 +1,51 @@
+LunTanPage: #论坛模块
+  LT: #论坛
+    element_lt: com.wanmei.a9vg:id/se #论坛
+    element_lt_title: com.wanmei.a9vg:id/lh #论坛模块标题
+    element_ns_lt: Switch综合讨论区 #Switch综合讨论区
+    element_ns_lt_title: com.wanmei.a9vg:id/jf #Switch综合讨论区-标题
+    element_ns_zhhf: com.wanmei.a9vg:id/a4x #Switch综合讨论区-最后回复
+    element_ns_zxfb: com.wanmei.a9vg:id/a4z #Switch综合讨论区-最新发布
+    element_ns_jht: com.wanmei.a9vg:id/a51 #Switch综合讨论区-精华帖
+    element_ns_zdt: com.wanmei.a9vg:id/a53 #Switch综合讨论区-置顶帖
+    element_ns_goback: com.wanmei.a9vg:id/k3 #Switch综合讨论区-返回键
+
+  ZHHF: #论坛最后回复
+    elements_zhhf_list: com.wanmei.a9vg:id/ch #最新回复列表
+    element_zhhf_dxck: com.wanmei.a9vg:id/os #最新回复列表-倒序查看
+    element_zhhf_zklz: com.wanmei.a9vg:id/a4p #最新回复列表-只看楼主
+    element_zhhf_fbhf: com.wanmei.a9vg:id/a4q #最新回复列表-发表回复
+    element_zhhf_hf: com.wanmei.a9vg:id/j6 #最新回复列表-发表回复-回复输入框
+    element_zhhf_hf_cancle: com.wanmei.a9vg:id/e8 #最新回复列表-发表回复-回复输入框-取消
+    element_zhhf_hf_ok: com.wanmei.a9vg:id/j4 #最新回复列表-发表回复-回复输入框-发送
+    element_zhhf_goback: com.wanmei.a9vg:id/c6 #最新回复列表-返回键
+
+  ZXFB: #论坛最新发布
+    elements_zxfb_list: com.wanmei.a9vg:id/ch #最新发布列表
+    element_zxfb_dxck: com.wanmei.a9vg:id/os #最新发布列表-倒序查看
+    element_zxfb_zklz: com.wanmei.a9vg:id/a4p #最新发布列表-只看楼主
+    element_zxfb_fbhf: com.wanmei.a9vg:id/a4q #最新发布列表-发表回复
+    element_zxfb_hf: com.wanmei.a9vg:id/j6 #最新发布列表-发表回复-回复输入框
+    element_zxfb_hf_cancle: com.wanmei.a9vg:id/e8 #最新发布列表-发表回复-回复输入框-取消
+    element_zxfb_hf_ok: com.wanmei.a9vg:id/j4 #最新发布列表-发表回复-回复输入框-发送
+    element_zxfb_goback: com.wanmei.a9vg:id/c6 #最新发布列表-返回键
+
+  JHT: #精华帖
+    elements_jht_list: com.wanmei.a9vg:id/ch #精华帖列表
+    element_jht_dxck: com.wanmei.a9vg:id/os #精华帖-倒序查看
+    element_jht_zklz: com.wanmei.a9vg:id/a4p #精华帖-只看楼主
+    element_jht_fbhf: com.wanmei.a9vg:id/a4q #精华帖-发布回复
+    element_jht_hf: com.wanmei.a9vg:id/j6 #精华帖-发布回复-回复输入框
+    element_jht_hf_cancle: com.wanmei.a9vg:id/e8 #精华帖-发布回复-回复输入框-取消
+    element_jht_hf_ok: com.wanmei.a9vg:id/j4 #精华帖-发布回复-回复输入框-发送
+    element_jht_goback: com.wanmei.a9vg:id/c6 #精华帖-返回键
+
+  ZDT: #置顶帖
+    elements_zdt_list: com.wanmei.a9vg:id/ch #置顶帖列表
+    element_zdt_dxck: com.wanmei.a9vg:id/os #置顶帖-倒序查看
+    element_zdt_zklz: com.wanmei.a9vg:id/a4p #置顶帖-只看楼主
+    element_zdt_fbhf: com.wanmei.a9vg:id/a4q #置顶帖-发表回复
+    element_zdt_hf: com.wanmei.a9vg:id/j6 #置顶帖-发布回复-回复输入框
+    element_zdt_hf_cancle: com.wanmei.a9vg:id/e8 #置顶帖-发布回复-回复输入框-取消
+    element_zdt_hf_ok: com.wanmei.a9vg:id/j4 #置顶帖-发布回复-回复输入框-发送
+    element_jht_goback: com.wanmei.a9vg:id/c6 #精华帖-返回键

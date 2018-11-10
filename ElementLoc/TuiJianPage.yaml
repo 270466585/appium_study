@@ -1,0 +1,46 @@
+TuiJianPage: #推荐模块
+  TJ:
+    element_tj_title: com.wanmei.a9vg:id/lh #推荐模块标题
+    element_ershoudeal: com.wanmei.a9vg:id/a8z #二手交易专区 index0
+    element_freegame: com.wanmei.a9vg:id/a8z #PS+会员本月免费游戏 index1
+    element_gamelist: com.wanmei.a9vg:id/a8z #游戏发售表 index2
+    element_newslist: com.wanmei.a9vg:id/a2_ #推荐信息列表
+
+  ESJY: #二手交易专区
+    element_esjy_title: 二手交易 #二手交易列表-title
+    elements_esjy_deal: com.wanmei.a9vg:id/ha #二手交易列表-二手信息
+    elements_esjy_dealname: com.wanmei.a9vg:id/hf #二手交易列表-交易标题
+    element_esjy_goback: com.wanmei.a9vg:id/c6 #二手交易列表-返回键
+    element_deal_gameattr: com.wanmei.a9vg:id/ro #二手交易详情-游戏属性
+    element_deal_pl: com.wanmei.a9vg:id/bz #二手交易详情-评论
+    element_deal_pl_input: com.wanmei.a9vg:id/j6 #二手交易详情-评论-输入评论信息
+    element_deal_pl_cancle: com.wanmei.a9vg:id/e8 #二手交易详情-评论-取消
+    element_deal_pl_ok: com.wanmei.a9vg:id/j4 #二手交易详情-评论-发送
+    element_deal_sl: com.wanmei.a9vg:id/c1 #二手交易详情-私聊
+    element_deal_goback: com.wanmei.a9vg:id/bu #二手交易详情-返回键
+
+  FEGM: #PS+会员免费游戏
+    element_gamenews: com.wanmei.a9vg:id/an #免费游戏-新闻网页
+    element_gamenews_pl: com.wanmei.a9vg:id/ww #免费游戏-评论
+    element_gamenews_goback: com.wanmei.a9vg:id/c6 #免费游戏-返回键
+    element_pl_title: com.wanmei.a9vg:id/cx #免费游戏-评论-评论标题
+    element_pl_door: com.wanmei.a9vg:id/iz #免费游戏-评论-发表评论
+    element_pl_input: com.wanmei.a9vg:id/j6 #免费游戏-评论-评论输入框
+    element_pl_cancle: com.wanmei.a9vg:id/e8 #免费游戏-评论-取消
+    element_pl_ok: com.wanmei.a9vg:id/j4 #免费游戏-评论-发送
+    element_pl_text: com.wanmei.a9vg:id/dx #免费游戏-评论-评论内容-index0
+    element_pl_goback: com.wanmei.a9vg:id/c6 #免费游戏-评论-返回键
+
+  GMFS: #游戏发售表
+    element_gmfs_title: 发售表 #游戏发售表-标题
+    element_gmfs_fx: com.wanmei.a9vg:id/qg #游戏发售表-分享
+    element_fx_cancle: com.wanmei.a9vg:id/jl #游戏发售表-分享-取消
+    element_gmfs_goback: com.wanmei.a9vg:id/k3 #游戏发售表-返回键
+
+  GMPL: #推荐页面游戏新闻评论
+    elements_newslist: com.wanmei.a9vg:id/a2_ #新闻列表
+    element_news_pl: com.wanmei.a9vg:id/iz #新闻-评论
+    element_news_goback: com.wanmei.a9vg:id/c6 #新闻-返回键
+    element_pl_input: com.wanmei.a9vg:id/j6 #新闻-评论-评论输入框
+    element_pl_cancle: com.wanmei.a9vg:id/e8 #新闻-评论-取消
+    element_pl_ok: com.wanmei.a9vg:id/j4 #新闻-评论-发送

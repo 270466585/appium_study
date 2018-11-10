@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data_Manage>
+    <LoginPage>
+        <login_username>17318971827</login_username>
+        <login_pwd>lzl198903017</login_pwd>
+    </LoginPage>
+    <TuiJianPage>
+        <esjy_pl>你好，哈哈哈哈！东西很好，我很喜欢啊！</esjy_pl>
+        <fegm_pl>这游戏我很喜欢！快点出来吧，我已经等不及了！出来就买买买！</fegm_pl>
+        <gmpl_pl>这游戏我很喜欢！快点出来吧，我已经等不及了！出来就买买买！一定要买啊！</gmpl_pl>
+    </TuiJianPage>
+    <LunTanPage>
+        <zhhf_pl>这个帖子写得好！问题很清楚，但是我就是回答不出来，哈哈哈哈！</zhhf_pl>
+        <zxfb_pl>这个帖子写得真好！问题很清楚，但是我就是回答不出来，哈哈哈哈！</zxfb_pl>
+        <jht_pl>这个帖子写得真好！介绍的很详细，不愧是精华帖子！感谢楼主啊！</jht_pl>
+        <zdt_pl>这个帖子写得真好！介绍的很详细，不愧是置顶帖子！感谢楼主啊！看来蛮有帮助的！</zdt_pl>
+    </LunTanPage>
+    <GameListPage>
+        <jjfs_pl>王者荣耀的Switch版本终于要出来了啊，但是只有英文没有中文啊，哎，好遗憾啊，有中文必入啊！</jjfs_pl>
+        <bzrm_pl>2K19的生涯模式剧情比18丰富很多啊，序章剧情挺好的，归途我来了！</bzrm_pl>
+    </GameListPage>
+    <FaXianPage>
+        <FJJY_pl>你好啊，我是你的好朋友，BearStar大神，加个好友一起打游戏！</FJJY_pl>
+        <PSJB_sj_pl>这个奖杯不错哦，买这个游戏争取拿下它！哈哈哈！</PSJB_sj_pl>
+        <PSJB_fs_pl>这个游戏不错哦，有这么多奖杯，又可以给我的奖杯等级升级啦，哈哈哈哈！</PSJB_fs_pl>
+        <PSJB_wjs_pl>这个游戏居然这么多人玩啊！哈哈哈！大家一起来拿奖杯吧！哈哈哈哈！</PSJB_wjs_pl>
+        <PSJB_nd_pl>这个游戏的奖杯难度挺难的啊！不过越难越有挑战性啊！大家加油一起拿吧！</PSJB_nd_pl>
+    </FaXianPage>
+</Data_Manage>

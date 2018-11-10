@@ -1,0 +1,51 @@
+FaXianPage: #发现模块
+  FX: #发现模块
+    element_fx: com.wanmei.a9vg:id/sg #发现模块
+    element_fx_title: com.wanmei.a9vg:id/lh #发现-标题
+    element_fx_jy: com.wanmei.a9vg:id/kr #发现-附近的机友
+    element_fx_yxjb: PS游戏奖杯 #PS游戏奖杯
+    element_fx_ph: PSN排行 #PSN排行
+
+  FJJY: #附近的机友
+    element_fjjy_title: com.wanmei.a9vg:id/cx #附近机友-标题
+    element_fjjy_fjjy: com.wanmei.a9vg:id/d2 #附近机友-附近机友
+    elements_fjjy_jy_list: com.wanmei.a9vg:id/t0 #附近机友-机友列表
+    element_fjjy_goback: com.wanmei.a9vg:id/c6 #附近机友-返回键
+    element_fjjy_jy_title: com.wanmei.a9vg:id/cx #附近机友-机友-标题
+    element_fjjy_jy_add: 加为机友，约战聊起来 #附近机友-机友-加好友
+    element_fjjy_jy_goback: com.wanmei.a9vg:id/c6 #附近机友-机友-返回键
+    element_fjjy_jy_add_input: com.wanmei.a9vg:id/a31 #附近机友-机友-加好友-输入框
+    element_fjjy_jy_add_cancle: com.wanmei.a9vg:id/jl #附近机友-机友-加好友-取消
+    element_fjjy_jy_add_ok: com.wanmei.a9vg:id/a34 #附近机友-机友-加好友-发送
+
+  PSJB: #PSN游戏奖杯
+    element_jb_title: com.wanmei.a9vg:id/jf #游戏奖杯-标题
+    element_jb_goback: com.wanmei.a9vg:id/k3 #游戏奖杯-返回将
+    element_jb_sj: com.wanmei.a9vg:id/j9 #游戏奖杯-时间
+    element_jb_fs: com.wanmei.a9vg:id/qr #游戏奖杯-分数
+    element_jb_wjs: com.wanmei.a9vg:id/qt #游戏奖杯-玩家数
+    element_jb_nd: com.wanmei.a9vg:id/y0 #游戏奖杯-难度
+    elements_jb_gm_list: com.wanmei.a9vg:id/ch #游戏奖杯-游戏列表
+    element_jb_gm_jblist_title: 奖杯列表 #游戏奖杯-游戏-奖杯列表标题
+    elements_jb_gm_jblist: com.wanmei.a9vg:id/tl #游戏奖杯-游戏-奖杯列表
+    element_jb_gm_goback: com.wanmei.a9vg:id/c6 #游戏奖杯-游戏-奖杯列表-返回键
+    element_jb_gm_jbxq: 奖杯详情 #游戏奖杯-游戏-奖杯详情
+    element_jb_gm_jbxq_goback: com.wanmei.a9vg:id/k3 #游戏奖杯-游戏-奖杯详情-返回键
+    element_jb_gm_fbpl: com.wanmei.a9vg:id/iz #游戏奖杯-游戏-发表评论
+    element_jb_gm_fbpl_input: com.wanmei.a9vg:id/j6 #游戏奖杯-游戏-发表评论-评论输入域
+    element_jb_gm_fbpl_cancle: com.wanmei.a9vg:id/e8 #游戏奖杯-游戏-发表评论-取消
+    element_jb_gm_fbpl_ok: com.wanmei.a9vg:id/j4 #游戏奖杯-游戏-发表评论-发送
+
+  PSPH: #PSN排行
+    element_ph_title: com.wanmei.a9vg:id/jf #排行-标题
+    element_ph_goback: com.wanmei.a9vg:id/k3 #排行-返回键
+    element_ph_dj: com.wanmei.a9vg:id/yv #排行-等级
+    element_ph_jbs: com.wanmei.a9vg:id/tt #排行-奖杯数
+    element_ph_yxs: com.wanmei.a9vg:id/vc #排行-游戏数
+    element_ph_wms: com.wanmei.a9vg:id/vd #排行-完美数
+    elements_ph_list: com.wanmei.a9vg:id/ch #排行-排行表
+    element_ph_wj_card: com.wanmei.a9vg:id/je #排行-排行表-玩家-名片卡
+    element_ph_wj_goback: com.wanmei.a9vg:id/c6 #排行-排行表-玩家-返回键
+    element_ph_wj_zph: com.wanmei.a9vg:id/yk #排行-排行表-玩家-总排行
+
+

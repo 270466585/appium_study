@@ -1,0 +1,46 @@
+GameListPage: #游戏库
+  GL: #游戏库
+    element_gl: com.wanmei.a9vg:id/sf #游戏库
+    element_gl_title: com.wanmei.a9vg:id/lh #游戏库-发售表标题
+    element_gl_jjfs: 即将发售 #游戏库-即将发售
+    element_gl_bzrm: 本周热门 #游戏库-本周热门
+    elements_gl_jjfs_list: com.wanmei.a9vg:id/r7 #游戏库-即将发售-游戏列表
+    elements_gl_bzrm_list: com.wanmei.a9vg:id/p1 #游戏库-本周热门-游戏列表
+
+  JJFS: #即将发售
+    element_jjfs_gm_title: com.wanmei.a9vg:id/c6 #即将发售-游戏标题
+    element_jjfs_gm_sc: com.wanmei.a9vg:id/a8y #即将发售-收藏
+    element_jjfs_gm_xxkz: com.wanmei.a9vg:id/q1 #即将发售-向下扩展
+    element_jjfs_gm_xskz: com.wanmei.a9vg:id/q1 #即将发售-向上收起
+    element_jjfs_gm_pl: com.wanmei.a9vg:id/qf #即将发售-评论
+    element_jjfs_gm_goback: com.wanmei.a9vg:id/c6 #即将发售-返回键
+    element_jjfs_pl_title: com.wanmei.a9vg:id/cx #即将发售-点评-标题
+    element_jjfs_pl_dp: 写点评 #即将发售-点评-写评论
+    element_jjfs_dp_title: com.wanmei.a9vg:id/cx #即将发售-点评-写评论-标题
+    element_jjfs_dp_xw: com.wanmei.a9vg:id/df #即将发售-点评-写评论-想玩
+    element_jjfs_dp_pt_ns: com.wanmei.a9vg:id/a8s #即将发售-点评-平台-NS
+    element_jjfs_dp_pt_ps4: com.wanmei.a9vg:id/dn #即将发售-点评-平台-PS4
+    element_jjfs_dp_input: com.wanmei.a9vg:id/dt #即将发售-点评-评论输入框
+    element_jjfs_dp_fbpl: com.wanmei.a9vg:id/du #即将发售-点评-发表评论
+    element_jjfs_gm_goback: com.wanmei.a9vg:id/c6 #即将发售-返回键
+
+  BZRM: #本周热门
+    element_bzrm_gm_title: com.wanmei.a9vg:id/c6 #本周热门-游戏标题
+    element_bzrm_gm_sc: com.wanmei.a9vg:id/a8y #本周热门-收藏
+    element_bzrm_gm_xxkz: com.wanmei.a9vg:id/q1 #本周热门-向下扩展
+    element_bzrm_gm_xskz: com.wanmei.a9vg:id/q1 #本周热门-向上收起
+    element_bzrm_gm_pl: com.wanmei.a9vg:id/qf #本周热门-评论
+    element_bzrm_pl_title: com.wanmei.a9vg:id/cx #本周热门-点评-标题
+    element_bzrm_pl_dp: com.wanmei.a9vg:id/iz #本周热门-点评-写评论
+    element_bzrm_dp_title: com.wanmei.a9vg:id/cx #本周热门-点评-写评论-标题
+    element_bzrm_dp_xw: com.wanmei.a9vg:id/df #本周热门-点评-写评论-想玩
+    element_bzrm_dp_pt_ps4: com.wanmei.a9vg:id/dn #本周热门-点评-平台-PS4
+    element_bzrm_dp_input: com.wanmei.a9vg:id/dt #本周热门-点评-评论输入框
+    element_bzrm_dp_fbpl: com.wanmei.a9vg:id/du #本周热门-点评-发表评论
+    element_bzrm_hf: com.wanmei.a9vg:id/iz #本周热门-点评回复
+    element_bzrm_gm_goback: com.wanmei.a9vg:id/c6 #本周热门-返回键
+
+
+
+
+

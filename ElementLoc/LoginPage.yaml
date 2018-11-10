@@ -1,0 +1,21 @@
+LoginPage: #登录注销
+  element_page1: com.wanmei.a9vg:id/m9 #介绍页面1
+  element_page2: com.wanmei.a9vg:id/m9 #介绍页面2
+  element_tips: 点击进入 #点击进入
+  element_tuijian: com.wanmei.a9vg:id/sd #推荐模块
+  element_luntan: com.wanmei.a9vg:id/se #论坛模块
+  element_youxiku: com.wanmei.a9vg:id/sf #游戏库
+  element_youxi: com.wanmei.a9vg:id/sg #游戏
+  element_wode: com.wanmei.a9vg:id/sh #我的
+  element_nologin: com.wanmei.a9vg:id/a5h #未登陆
+  element_mydeal: com.wanmei.a9vg:id/tb #我的交易
+  element_username: com.wanmei.a9vg:id/dz #账号
+  element_pwd: com.wanmei.a9vg:id/e1 #密码
+  element_login_button: com.wanmei.a9vg:id/e2 #登录按钮
+  element_logout: com.wanmei.a9vg:id/a61 #退出登录
+  element_logout_tips: com.wanmei.a9vg:id/i6 #是否退出登录提示
+  element_logout_cancle: com.wanmei.a9vg:id/i8 #取消注销
+  element_logout_ok: com.wanmei.a9vg:id/ju #确认注销
+  element_tuijian_title: com.wanmei.a9vg:id/lh #推荐模块标题
+
+
